@@ -1,5 +1,3 @@
-# librarymanagementsystem
-This project is created as a part of our semester 5, course Java programming lab.
 # To design a system for library management.
 This code is implemented by using interfaces and class inheritance.
 2 logins: member, admin
